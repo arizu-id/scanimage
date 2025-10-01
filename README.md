@@ -1,4 +1,4 @@
-# ScanImage
+# Scan Image APP
 
 > Lightweight Android document scanner — pick from gallery or camera, adjust **4 corner points** (like Adobe Scan), auto-straighten perspective, enhance contrast, and save clean results that look like text on white paper.
 
