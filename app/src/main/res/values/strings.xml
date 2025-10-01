@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scan Image</string>
+    <string name="no_scans">There are no scan files yet.\nTap + to start scan new file.</string>
+    <string name="scan_button">Scan</string>
+    <string name="topbar_title">Scan Image</string>
+    <string name="saved_to">Saved in Documents</string>
+    <string name="camera_permission_needed">Camera permission is required</string>
+    <string name="camera_fail">Failed to access the camera</string>
+    <string name="capture_fail">Failed to take a photo</string>
+    <string name="pick_from_gallery">Gallery</string>
+</resources>
